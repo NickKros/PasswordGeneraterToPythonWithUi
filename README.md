@@ -1,1 +1,1 @@
-In this program I use a Tkinter and module secrets.
+In this program I use a Tkinter and secrets.
