@@ -7,7 +7,6 @@ from secrets import choice
 from tkinter import Entry
 from tkinter import ttk
 
-# C:/NeedFolder/code/python programs for pc/Generater password GUI
 root = Tk()
 
 root.title("Генератор паролей")
